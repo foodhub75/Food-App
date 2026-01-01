@@ -1,0 +1,7 @@
+{
+  "name": " Zaman Baba",
+  "description": "A feature-rich food delivery application featuring AI-powered food recommendations, live rider tracking visualization, and a seamless checkout experience.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
